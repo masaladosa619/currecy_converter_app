@@ -1,17 +1,45 @@
-# currency_converter
+# 💵 USD to INR Currency Converter App (Offline)
 
-A new Flutter project.
+A **simple and fast Flutter app** to convert **USD to INR** using a **fixed exchange rate**. This app works completely **offline** — no API calls, no internet, just instant conversion!
 
-## Getting Started
+Built using **Flutter** and **Dart**, it is ideal for anyone who wants a minimal and lightweight currency converter for basic usage.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔢 **Instant USD to INR conversion**
+- 📴 **Works 100% offline** – no API or internet needed
+- 🧮 **Hardcoded exchange rate** used in calculations
+- 📱 **Simple and clean UI**
+- ⚡ **Fast and responsive performance**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-[]()[]()
+---
+
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|--------|
+| **Flutter** | UI Framework |
+| **Dart** | Programming Language |
+| **No API** | Works offline using hardcoded logic |
+
+---
+
+## 📦 Getting Started
+
+Follow these steps to run the app on your local device:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/masaladosa619/currecy_converter_app.git
+
+# 2️⃣ Navigate to the project folder
+cd currecy_converter_app
+
+# 3️⃣ Install dependencies
+flutter pub get
+
+# 4️⃣ Run the app on emulator or device
+flutter run
